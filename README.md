@@ -15,7 +15,7 @@ being the file structure:
 * [Student answers]
 * [Expected answers]
 
-![screenshot 1](https://github.com/ricardoreais/exam-evaluator/blob/master/examples/intro.png "Test 1")
+![screenshot 1](https://github.com/ricardoreais/exam-evaluator/blob/master/examples/test1.png "Test 1")
 
 [Folder containing example exams](https://github.com/ricardoreais/exam-evaluator/tree/master/Q1)
 
