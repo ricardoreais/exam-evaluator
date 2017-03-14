@@ -23,7 +23,7 @@ being the file structure:
 
 The function evaluates a folder containing exams solved by students, using parallel processing.
 
-```Processing
+```C
 void multiple_quiz_final_evaluation(char *dirName, int NTHREADS)
 {
 	FILE *ls = popen("ls --quoting-style=escape -U Q1 | wc -l", "r");
