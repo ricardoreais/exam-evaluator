@@ -85,9 +85,9 @@ a.exe [Solved quizes folder] [Number of Threads]
 ## Running the tests
 
 Using the folder Q1 as example and running on two threads:
-
+Linux:
 ```sh
-./a.exe Q1 2
+./a.out Q1 2
 ```
 ![screenshot 1](https://github.com/ricardoreais/exam-evaluator/blob/master/examples/test1.png "Test 1")
 
@@ -108,4 +108,4 @@ See also the list of [contributors](https://github.com/ricardoreais/colored-line
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
