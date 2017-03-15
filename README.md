@@ -70,7 +70,7 @@ gcc -fopenmp -std=c99 -Wall exam-evaluator.c
 
 ## Running the program
 
-You can run the game using this syntax:
+You can run the program using this syntax:
 
 ```sh
 ./a.out [Solved quizes folder] [Number of Threads]
@@ -79,7 +79,7 @@ You can run the game using this syntax:
 or using Windows
 
 ```sh
-./a.exe [Solved quizes folder] [Number of Threads]
+a.exe [Solved quizes folder] [Number of Threads]
 ```
 
 ## Running the tests
@@ -108,4 +108,4 @@ See also the list of [contributors](https://github.com/ricardoreais/colored-line
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
