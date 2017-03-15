@@ -85,7 +85,7 @@ a.exe [Solved quizes folder] [Number of Threads]
 ## Running the tests
 
 Using the folder Q1 as example and running on two threads:
-Linux:
+
 ```sh
 ./a.out Q1 2
 ```
